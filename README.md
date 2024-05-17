@@ -174,19 +174,19 @@ confusion_matrix(test_image_gen.classes,predictions)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-<img src = "https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/567e7d7c-2ae3-4e0c-a69b-5a59050021c4" width="400">
+<img src = "1.png">
 
 ### Classification Report
 
-<img src = "https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/c47d14fc-e88f-44ba-ada6-a226de898a46" width="400">
+<img src = "2.png">
 
 ### Confusion Matrix
 
-<img src = "https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/e724c332-1feb-4317-a30d-213ae03cdb2d" width="300">
+<img src = "3.png">
 
 ### New Sample Data Prediction
 
-<img src = "https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/d77f952d-325c-41ee-bc6f-c0c329fdc16d" width="300">
+<img src = "4.png  ">
 
 ## RESULT:
 Thus, a deep neural network for Malaria infected cell recognition is developed and the performance is analyzed.
